@@ -1,13 +1,3 @@
-/*
-** main.c for  in /home/piscine/bfmEnC
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Thu May 11 17:19:52 2017 BENKRIZI El harag
-** Last update Sat May 13 00:01:18 2017 BENKRIZI El harag
-*/
-
 #include <stdlib.h>
 #include <time.h>
 #include "struct.h"

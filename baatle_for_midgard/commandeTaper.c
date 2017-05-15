@@ -1,13 +1,3 @@
-/*
-** commandeTaper.c for  in /home/piscine/bfmEnC
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri May 12 13:59:33 2017 BENKRIZI El harag
-** Last update Fri May 12 23:53:28 2017 BENKRIZI El harag
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>

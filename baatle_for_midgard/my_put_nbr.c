@@ -1,13 +1,3 @@
-/*
-** my_put_nbr.c for  in /home/piscine/jourC05
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri Mar 24 09:38:49 2017 BENKRIZI El harag
-** Last update Thu Apr 13 16:29:36 2017 BENKRIZI El harag
-*/
-
 #include <unistd.h>
 
 void	my_putnbr(int n);

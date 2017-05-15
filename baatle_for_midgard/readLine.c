@@ -1,13 +1,3 @@
-/*
-** readLine.c for  in /home/piscine/chifumi
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri Mar 31 11:43:50 2017 BENKRIZI El harag
-** Last update Fri Mar 31 11:45:57 2017 BENKRIZI El harag
-*/
-
 #include <stdlib.h>
 #include <sys/types.h>
 #include <sys/uio.h>

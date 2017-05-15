@@ -1,13 +1,3 @@
-/*
-** struct.h for  in /home/piscine/bfmEnC
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Thu May 11 17:05:59 2017 BENKRIZI El harag
-** Last update Fri May 12 19:57:11 2017 BENKRIZI El harag
-*/
-
 typedef struct  s_creature
 {
   char			*name;

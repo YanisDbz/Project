@@ -1,13 +1,3 @@
-/*
-** containerCreature.c for  in /home/piscine/bfmEnC
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri May 12 13:11:22 2017 BENKRIZI El harag
-** Last update Fri May 12 23:55:49 2017 BENKRIZI El harag
-*/
-
 #include <stdlib.h>
 #include <stdio.h>
 #include "struct.h"

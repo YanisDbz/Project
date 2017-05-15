@@ -1,13 +1,3 @@
-/*
-** my_getnbr.c for  in /home/piscine/chifumi/lib_src
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri Mar 31 14:46:25 2017 BENKRIZI El harag
-** Last update Fri Mar 31 14:48:12 2017 BENKRIZI El harag
-*/
-
 void my_putchar (char c);
 void my_put_nbr (int c);
 int	my_getnbr(char	*str)

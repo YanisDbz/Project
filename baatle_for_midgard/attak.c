@@ -1,13 +1,3 @@
-/*
-** attak.c for  in /home/piscine/bfmEnC
-** 
-** Made by BENKRIZI El harag
-** Login   <benkri_e@etna-alternance.net>
-** 
-** Started on  Fri May 12 19:41:51 2017 BENKRIZI El harag
-** Last update Sat May 13 00:03:11 2017 BENKRIZI El harag
-*/
-
 #include <stdlib.h>
 #include <time.h>
 #include "struct.h"
